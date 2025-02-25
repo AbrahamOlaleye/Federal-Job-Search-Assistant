@@ -40,7 +40,7 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository**:  
    ```  
-   git clone https://github.com/your-repo-name/job-search-assistant.git  
+   git clone https://github.com/AbrahamOlaleye/job-search-assistant.git  
    cd job-search-assistant  
    ```  
 
