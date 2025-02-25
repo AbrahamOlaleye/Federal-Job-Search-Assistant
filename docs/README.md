@@ -1,7 +1,5 @@
 TITLE: Federal Job Search Assistant for College Students 
 
-Names: Megan Cha, Grace Gellerman, Collin Guo, Carlos Lopez Cento, Abraham Olaleye
-
 Description: 
 Searching for a job is a difficult task that most, if not all, working-age adults face, especially if you are a student also juggling part-jobs or extracurriculars. There are often problems with information overload or asymmetry on existing job platforms where they present too many options like some social media features and unrelated job categories. This can become overwhelming for individuals who do not know where or how to search for desirable jobs effectively. To address this difficulty, we hope to assist young professionals and students by creating an easier job board experience, targeting college students in particular. 
 
