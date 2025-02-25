@@ -40,8 +40,8 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository**:  
    ```  
-   git clone https://github.com/AbrahamOlaleye/job-search-assistant.git  
-   cd job-search-assistant  
+   git clone https://github.com/AbrahamOlaleye/Federal-Job-Search-Assistant.git  
+   cd federal-job-search-assistant  
    ```  
 
 2. **Install dependencies**:  
